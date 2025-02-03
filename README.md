@@ -14,13 +14,6 @@ The dataset includes various attributes such as:
 - Matplotlib 
 - Seaborn 
 
-## 📊 Key Features
-- **Data Cleaning & Preprocessing**: Handling missing values, duplicate entries, and outliers.
-- **Exploratory Data Analysis (EDA)**: Generating visualizations to identify trends and patterns.
-- **Correlation Analysis**: Checking relationships between budget, revenue, and ratings.
-- **Genre-wise Performance**: Identifying the most successful movie genres.
-- **Top Directors & Actors**: Analyzing which directors and actors contribute to high-rated movies.
-
 ## 📌 Results & Insights
 - The relationship between budget and revenue.
 - Trends in movie ratings over different years.
