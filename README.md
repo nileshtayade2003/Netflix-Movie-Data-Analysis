@@ -5,15 +5,7 @@ This project performs analysis on a dataset containing information about movies.
 
 ## 📂 Dataset
 The dataset includes various attributes such as:
-- Movie Title
-- Release Year
-- Genre
-- Director
-- Cast
-- Budget
-- Revenue
-- IMDB Ratings
-- Runtime
+-Release_Date,Title,Overview,Popularity,Vote_Count,Vote_Average,Original_Language,Genre,Poster_Url
 
 ## 🛠️ Technologies Used
 - Python 
